@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 H, e, l, l, o
+=======
+Developing feature1
+>>>>>>> Developing feature1
 =======
 Developing feature1
 >>>>>>> Developing feature1
