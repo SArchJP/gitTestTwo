@@ -6,4 +6,12 @@ Developing feature1
 >>>>>>> Developing feature1
 =======
 Developing feature1
+<<<<<<< HEAD
 >>>>>>> Developing feature1
+=======
+<<<<<<< HEAD
+>>>>>>> Developing feature1
+=======
+>>>>>>> df7e8193a8763d0ec66f42294f890ea4c5853ee0
+>>>>>>> d29c309e5b33448634ebc16d0a0be24f3807ad50
+>>>>>>> 0ec3c53662b94934f4cbe20491ae420a2a3259bb
